@@ -3,9 +3,11 @@
 {
     height: 60px;
 }
+
 #a2,#a3,#a4,#a5,#a6
 {
     height: 90px;
+
 }
 #one{
     padding: 20px;
@@ -191,4 +193,34 @@ h2{
 #achievements
 {
     height: 500px;
+}
+#aa1:hover{
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    
+}
+#aa2:hover{
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    
+}
+#aa3:hover{
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    
+}
+#aa4:hover{
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    
+}
+#aa5:hover{
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    
+}
+#aa6:hover{
+    background-color: rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+    
 }
