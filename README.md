@@ -17,7 +17,7 @@ A clean and simple portfolio website built using **HTML** add **CSS**. This proj
 ## Deployment
 
 This website is deployed and accessible at:  
-[Your Deployment Link Here]
+[https://mysimplefolio.netlify.app/]
 
 ## Getting Started
 
